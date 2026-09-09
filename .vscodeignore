@@ -1,0 +1,15 @@
+.vscode/**
+src/**
+tests/**
+.eslintrc.json
+.prettierrc.json
+jest.config.js
+esbuild.js
+tsconfig.json
+*.log
+coverage/**
+.github/**
+.syngoMR-spec-scout-cache/**
+Reports/**
+node_modules/**
+package-lock.json
